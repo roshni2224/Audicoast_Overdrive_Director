@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128825008045",
+    "firebase_url": "https://audicoastoverdrivedirector-default-rtdb.firebaseio.com",
+    "project_id": "audicoastoverdrivedirector",
+    "storage_bucket": "audicoastoverdrivedirector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128825008045:android:252d4345a6dba9d3d50b24",
+        "android_client_info": {
+          "package_name": "com.example.audicoastoverdrivedirector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128825008045-pldtc06d3rk1d2ghmrs47dl2jje2kh66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9Jyr-afCUZuSolUhiuKn4G9BL9972jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128825008045-pldtc06d3rk1d2ghmrs47dl2jje2kh66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
